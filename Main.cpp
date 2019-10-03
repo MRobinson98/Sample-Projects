@@ -1,3 +1,6 @@
+//This is the main function from a C++ programming assingment
+//Its purpose is to test mutator methods for properties of a car, while testing out pointers
+
 #include <iostream>
 #include "Car.h"
 
